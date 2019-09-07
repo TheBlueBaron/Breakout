@@ -1,7 +1,7 @@
 # Breakout
 Breakout 2D using OpenGL
 
-Creating using resources at learnopengl.com
+Creating using resources at [learnopengl](https://learnopengl.com/)
 
 ## Requirements
 
