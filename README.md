@@ -1,6 +1,8 @@
 # Breakout
 Breakout 2D using OpenGL
 
+Creating using resources at learnopengl.com
+
 ## Requirements
 
 **Font Rendering**
