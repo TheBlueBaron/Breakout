@@ -14,3 +14,20 @@ Breakout 2D using OpenGL
 
 **Image Loader**
 [SOIL2](https://bitbucket.org/SpartanJ/soil2/src/default/)
+
+
+### Controls
+
+**Menu**
+
+W & S - Select Level
+
+SPACE - Start Level
+
+**Game**
+
+A - Move paddle left
+
+D - Move paddle right
+
+SPACE - Launch ball
