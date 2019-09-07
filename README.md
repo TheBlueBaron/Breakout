@@ -15,6 +15,12 @@ Breakout 2D using OpenGL
 **Image Loader**
 [SOIL2](https://bitbucket.org/SpartanJ/soil2/src/default/)
 
+**OpenGL**
+
+[GLFW](https://www.glfw.org/)
+
+[GLEW](http://glew.sourceforge.net/) / [GLAD](https://glad.dav1d.de/)
+
 
 ### Controls
 
